@@ -156,8 +156,8 @@ lack modern features such as end-to-end security or decentralized communication.
 |--|--|--|--|--|--|
 | Pop3|SSL/TSL|❌|❌|SMTP|Legacy systems|
 | SMTP|SSL/TSL|❌|❌|POP3 ,IMAP|Universal sending|
-| **Secral**|AES-256/RSA|✅|✅|❌|Synchronization|
-| IMAP|SLL/TSL|❌|❌|SMTP| **Privacy-first communication**|
+| **Secral**|AES-256/RSA|✅|✅|❌| **Privacy-first communication**|
+| IMAP|SLL/TSL|❌|❌|SMTP|Synchronization|
 
 
 ## License
